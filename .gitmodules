@@ -1,3 +1,6 @@
 [submodule "p5_TravelingSalesperson"]
 	path = p5_TravelingSalesperson
 	url = https://github.com/XyronLabs/p5_TravelingSalesperson.git
+[submodule "p5_clone.io"]
+	path = p5_clone.io
+	url = https://github.com/XyronLabs/p5_clone.io.git

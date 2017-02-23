@@ -4,3 +4,6 @@
 [submodule "p5_clone.io"]
 	path = p5_clone.io
 	url = https://github.com/XyronLabs/p5_clone.io.git
+[submodule "p5_GameOfLife"]
+	path = p5_GameOfLife
+	url = https://github.com/XyronLabs/p5_GameOfLife.git

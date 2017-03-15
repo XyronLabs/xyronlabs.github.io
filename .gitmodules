@@ -7,3 +7,6 @@
 [submodule "p5_GameOfLife"]
 	path = p5_GameOfLife
 	url = https://github.com/XyronLabs/p5_GameOfLife.git
+[submodule "p5_SuperHexaClone"]
+	path = p5_SuperHexaClone
+	url = https://github.com/XyronLabs/p5_SuperHexaClone.git
